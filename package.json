@@ -1,0 +1,26 @@
+{
+  "name": "ytdl-core-rate-limiting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filip785/ytdl-core-rate-limiting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filip785/ytdl-core-rate-limiting/issues"
+  },
+  "homepage": "https://github.com/Filip785/ytdl-core-rate-limiting#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "prompt-sync": "^4.2.0",
+    "ytdl-core": "^2.0.1"
+  }
+}
